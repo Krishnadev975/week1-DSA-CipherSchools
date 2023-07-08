@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   int a[9];
-  
+  int i;
   cout<<"give 10 integers as input"<<endl;
 
   for(i=0;i<10;i++)
